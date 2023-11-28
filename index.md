@@ -1,4 +1,4 @@
-Brian Chen, brc004
+Brian Chen, brc004@ucsd.edu
 Graph ML for Chip Profiling
 1. Graph Neural Networks
 2. Using graph machine learning on a netlist to determine how congested certain parts of the chip are, or maybe timing issues with the chip. 
